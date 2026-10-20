@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.aws/
+credentials
+credenciales
+credenciales.json
+*.pem
